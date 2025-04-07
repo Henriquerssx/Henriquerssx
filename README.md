@@ -1,11 +1,6 @@
 # Seja Bem vindo!
 
 Meu nome é `José Henrique Sant Ana Arruda` , tenho `17 anos` e adoro tecnologia. Atualmente estudo no `Centro Universitário - Senac Nações Unidas`, no curso de `Informática` integrado ao Ensino Médio e estou no 3° ano. Além disso, estou cursando o `Técnico em Desenvolvimento de Sistemas` na `Escola Senai Anchieta e Faculdade Senai São Paulo - Campus Anchieta` Pelo programa de `Jovem Aprendiz no Metrô de São Paulo`.
- 
-<div align="center">
-<a href="https://tenor.com/"><img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"width="200" height="230" border="0" alt="https://tenor.com/" ></a> 
-<br>
-</div>
 
 ### 📚 Estudos:
 #### Centro Universitário Senac-Santo Amaro.
@@ -29,4 +24,7 @@ Meu nome é `José Henrique Sant Ana Arruda` , tenho `17 anos` e adoro tecnologi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Levantamento de Requisitos](https://img.shields.io/badge/Levantamento%20de%20Requisitos-297c04?style=for-the-badge&logo=levantamentoderequisitos&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
+<div align="center">
+<a href="https://tenor.com/"><img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"width="200" height="230" border="0" alt="https://tenor.com/" ></a> 
+<br>
+</div>
