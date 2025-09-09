@@ -1,10 +1,10 @@
-<div align ="center>
+
 ### 📚 Estudos:
 #### Centro Universitário Senac-Santo Amaro.
 ► Técnico em Informática
 #### Senai Anchieta.
 ► Desenvolvimento de Sistemas
- </div>
+
  
 ## Contatos
 <div align ="center>
