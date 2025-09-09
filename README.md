@@ -5,9 +5,8 @@
 #### Senai Anchieta.
 ► Desenvolvimento de Sistemas
 
- 
+ <div align ="center>
 ## Contatos
-<div align ="center>
 <a href = "mailto:profissionaljoseh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/josé-henrique-25568835a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
 </div>
