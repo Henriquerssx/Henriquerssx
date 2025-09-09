@@ -1,6 +1,3 @@
-# Seja Bem vindo!
-
-Meu nome é `José Henrique Sant Ana Arruda` , tenho `17 anos` e adoro tecnologia. Atualmente estudo no `Centro Universitário - Senac Nações Unidas`, no curso de `Informática` integrado ao Ensino Médio e estou no 3° ano. Além disso, estou cursando o `Técnico em Desenvolvimento de Sistemas` na `Escola Senai Anchieta e Faculdade Senai São Paulo - Campus Anchieta` Pelo programa de `Jovem Aprendiz no Metrô de São Paulo`.
 
 ### 📚 Estudos:
 #### Centro Universitário Senac-Santo Amaro.
@@ -28,14 +25,12 @@ Meu nome é `José Henrique Sant Ana Arruda` , tenho `17 anos` e adoro tecnologi
 
    
 
-[![My Skills](https://skillicons.dev/icons?i=java,springboot,mysql,git,kotlin,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,git,kotlin,javascript)](https://skillicons.dev)
 
  </div>
 <div>
 
 ##
- 
-## Conhecimentos 
 ![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Hardware](https://img.shields.io/badge/Hardware-323330?style=for-the-badge&logo=PCGamingWiki&logoColor=white) 
 ![Pacote Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) 
