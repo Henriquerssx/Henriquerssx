@@ -30,15 +30,5 @@
  </div>
 <div>
 
-##
-![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Hardware](https://img.shields.io/badge/Hardware-323330?style=for-the-badge&logo=PCGamingWiki&logoColor=white) 
-![Pacote Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) 
-![Lógica de Programação](https://img.shields.io/badge/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-792EE5?style=for-the-badge&logo=GNOME%20Terminal&logoColor=white) 
-![Redes de Computadores](https://img.shields.io/badge/Redes%20de%20computadores-F01F7A?style=for-the-badge&logo=Relay&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Levantamento de Requisitos](https://img.shields.io/badge/Levantamento%20de%20Requisitos-297c04?style=for-the-badge&logo=levantamentoderequisitos&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
