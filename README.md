@@ -24,9 +24,7 @@
  </div>
 <div>
 
-#
-## O que estou aprendendo:  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="110">
----
+
 ## 🛠️ &nbsp;Tecnologias e Linguagens
 
 <p align="center">
