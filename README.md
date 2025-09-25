@@ -24,6 +24,8 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Henriquerssx&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquerssx&layout=compact&hide_border=true&title_color=5d5fe8&text_color=5d5fe8&bg_color=0d1117" />
+</div>
 </p>
 
    
