@@ -24,7 +24,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Henriquerssx&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Henriquerssx)](https://github.com/anuraghazra/github-readme-stats)
+  <img src =" https://github-readme-stats.vercel.app/api/wakatime?username=Henriquerssx&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </div>
 </p>
 
